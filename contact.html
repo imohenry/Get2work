@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Get2work </title>
-    <meta name="description" content="">
+	<meta name="keywords" content="work, get worker, plumber, electrician, carpenter, bricklayer, painter, request, menial jobs, jobs, menial jobs, money, API, mechanic.">
+    <meta name="description" content="Get2work a menial service providing platform">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
@@ -13,17 +14,13 @@
     <!-- Place favicon.ico in the root directory -->
 <!--button copy function-->
 <script>
-    function copym(){
-        copyer("copy"); }
+   function popupFunction() {
+      alert("Request Successful. You will be contacted in an hour");
+    }
         </script>
 <!--copy to clipboard styles-->
 <style>
-.copy {
-    border: none;
-    outline: none;
-    color: black;
-    padding: 10px;
- }
+
 </style>
    <!-- CSS here -->
    <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -202,7 +199,7 @@
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn" value="send">Send</button>  
+                                <button type="submit" onclick="popupFunction('Request form status');" class="button button-contactForm boxed-btn" value="send">Send</button>  
                                    
                             </div>
                         </form>
@@ -212,7 +209,7 @@
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
                                 <h3>Lagos, Nigeria</h3>
-                                <p>Satellite Town</p>
+                                
                             </div>
                         </div>
                         <div class="media contact-info">
