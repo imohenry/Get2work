@@ -2,8 +2,9 @@
   "name": "get2work",
   "version": "1.0.0",
   "description": "a company that provides menial services for people",
-}
- "repository": {
+  "repository": {
       "type": "git",
       "url": "https://https://github.com/imohenry/Get2work"
     },
+}
+ 
