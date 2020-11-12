@@ -50,7 +50,7 @@ margin-left: 20px;
 .flaticon-twitter:before { content: "\f111"; }
 .flaticon-right-quote:before { content: "\f112"; }
 .flaticon-heart:before { content: "\f113"; font-size: 18px;}
-.flaticon-right-arrow:before { content: "\f114"; font-size: 10px;}
+.flaticon-right-arrow:before { content: "\f114"; font-size: 10px; text-align: center;}
 .flaticon-up-arrow:before { content: "\f115"; }
 .flaticon-analysis:before { content: "\f116"; }
 .flaticon-bullhorn:before { content: "\f117"; }
