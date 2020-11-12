@@ -41,9 +41,9 @@ margin-left: 20px;
 .flaticon-carpenter:before { content: "\f108"; }
 .flaticon-plumber:before { content: "\f109"; }
 .flaticon-cleaning-staff:before { content: "\f10a"; }
-.flaticon-home:before { content: "\f10b"; }
-.flaticon-tablet:before { content: "\f10c"; }
-.flaticon-email:before { content: "\f10d"; }
+.flaticon-home:before { content: "\f10b"; font-size: 20px;}
+.flaticon-tablet:before { content: "\f10c"; font-size: 20px;}
+.flaticon-email:before { content: "\f10d"; font-size: 20px;}
 .flaticon-instagram:before { content: "\f10e"; }
 .flaticon-whatsapp:before { content: "\f10f"; }
 .flaticon-facebook:before { content: "\f110"; }
