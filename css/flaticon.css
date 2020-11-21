@@ -27,7 +27,7 @@
   font-family: Flaticon;
         font-size: 60px;
 font-style: normal;
-margin-left: 20px;
+/*margin-left: 20px; */
 }
 
 .flaticon-wrench:before { content: "\f100"; }
