@@ -51,7 +51,7 @@ margin-left: 20px;
 .flaticon-right-quote:before { content: "\f112"; }
 .flaticon-heart:before { content: "\f113"; font-size: 18px;}
 .flaticon-right-arrow:before { content: "\f114"; font-size: 15px; text-align: center;}
-.flaticon-up-arrow:before { content: "\f115"; font-size: 20px; text-align: left; font-style: normal;
+.flaticon-up-arrow:before { content: "\f115"; font-size: 25px; text-align: start; font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;}
