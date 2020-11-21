@@ -51,7 +51,7 @@ margin-left: 20px;
 .flaticon-right-quote:before { content: "\f112"; }
 .flaticon-heart:before { content: "\f113"; font-size: 18px;}
 .flaticon-right-arrow:before { content: "\f114"; font-size: 15px; text-align: center;}
-.flaticon-up-arrow:before { content: "\f115"; }
+.flaticon-up-arrow:before { content: "\f115"; font-size: 13px;}
 .flaticon-analysis:before { content: "\f116"; }
 .flaticon-bullhorn:before { content: "\f117"; }
 .flaticon-advertising:before { content: "\f118"; }
