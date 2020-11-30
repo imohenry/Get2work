@@ -28,9 +28,12 @@
     }
         </script>
 <!--copy to clipboard styles-->
-<style>
-
-</style>
+<script type="text/javascript" language="javascript">
+    function redirect()
+    {
+        window.location.href="success/success.html";
+    }
+    </script>
    <!-- CSS here -->
    <link rel="stylesheet" href="css/bootstrap.min.css">
    <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -209,7 +212,7 @@
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                            <a href="success/success.html" ><button type="submit" id="dialog" onclick="popupFunction('Request form status');" class="button button-contactForm boxed-btn" value="send">Send</button> </a>   
+                            <button type="submit" id="dialog" onclick="redirect();" class="button button-contactForm boxed-btn" value="send">Send</button>   
                                    
                             </div>
                         </form>
